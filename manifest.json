@@ -1,12 +1,12 @@
 {
-  "name": "Fühlkraft Kalender",
-  "short_name": "Fühlkraft",
-  "description": "Dein digitaler Begleiter für Mensch & Pferd",
-  "start_url": "./",
+  "name": "Fühlkraft Pferdekalender",
+  "short_name": "Pferdekalender",
+  "description": "Dein persönlicher Kalender für ein Leben mit Pferd, Familie und dir selbst.",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#e8d8f0",
-  "theme_color": "#4a3860",
-  "orientation": "portrait",
+  "background_color": "#f7f3ee",
+  "theme_color": "#f7f3ee",
+  "orientation": "portrait-primary",
   "icons": [
     {
       "src": "icon-192.png",
